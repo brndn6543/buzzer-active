@@ -1,5 +1,7 @@
 # buzzer-active
-A demonstration of powering an active buzzer with an Arduino UNO board.
+A demonstration of powering an active buzzer with an Arduino UNO board. Watch the demonstration below on YouTube. 
+
+**Do not forget to turn your audio up.**
 
 [![Watch on YouTube](https://i9.ytimg.com/vi_webp/l5wQF2TQJSk/mq2.webp?sqp=COzzvsAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPygTMA8=&rs=AOn4CLA_2mDd0AzNaRn9n4P5DarD992iXA)](https://youtu.be/l5wQF2TQJSk)
 
